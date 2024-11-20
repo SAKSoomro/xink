@@ -1,5 +1,7 @@
 # xink
-XINK is a pre-revenue, pre-development cloud-based IDE. Investors wanted.
+XINK is a pre-revenue, in-development cloud-based IDE. Investors wanted.
+
+# goal is to make completely AI powered, open-source, cloud-based IDE along with cloud-based emulators for most operating system, VPS for production.
 
 # Updates:
 
